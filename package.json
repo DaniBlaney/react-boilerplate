@@ -1,7 +1,7 @@
 {
   "name": "react-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "React boiler plate from scratch",
   "main": "index.js",
   "scripts": {
     "start": "node server/index.js",
@@ -30,6 +30,9 @@
     "@babel/preset-env": "^7.5.4",
     "@babel/preset-react": "^7.0.0",
     "babel-loader": "^8.0.6",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
     "css-loader": "^3.0.0",
     "html-webpack-plugin": "^3.2.0",
     "node-sass": "^4.12.0",
